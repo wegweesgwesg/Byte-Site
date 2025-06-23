@@ -1,4 +1,12 @@
 
+@font-face {
+    font-family: "Roboco";
+    src: url("fonts/Roboto.woff2") format("woff2");
+}
+html {
+  font-family: 'Roboco';
+}
+
 @media (min-width: 1440px) {
   .only-tablet, .only-phone {
     display: none;
