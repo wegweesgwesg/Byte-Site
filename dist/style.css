@@ -1,7 +1,12 @@
 
 @font-face {
+  font-family: "Roboco";
+  src: url("../fonts/Roboto-Medium.woff2") format("woff2");
+  font-style: medium;
+  font-weight: 400;
+  html {
     font-family: "Roboco";
-    src: url("fonts/Roboto.woff2") format("woff2");
+  }
 }
 html {
   font-family: 'Roboco';
