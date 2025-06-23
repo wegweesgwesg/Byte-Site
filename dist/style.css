@@ -20,7 +20,7 @@ html {
     margin: 0px;
   }
   header {
-    font-family: Roboto;
+    font-family: Roboco;
     font-size: 32px;
     font-weight: 800;
     height: 128px;
@@ -46,7 +46,7 @@ html {
     font-size: 32px;
   }
   footer {
-    font-family: Roboto;
+    font-family: Roboco;
     font-size: 14px;
     font-weight: 800;
     height: 256px;
@@ -580,7 +580,7 @@ html {
     margin: 0px;
   }
   header {
-    font-family: Roboto;
+    font-family: Roboco;
     font-size: 14px;
     font-weight: 800;
     height: 70px;
@@ -1133,7 +1133,7 @@ html {
     margin: 0px;
   }
   header {
-    font-family: Roboto;
+    font-family: Roboco;
     font-size: 11px;
     font-weight: 800;
     height: 48px;
@@ -1159,7 +1159,7 @@ html {
     font-size: 11px;
   }
   footer {
-    font-family: Roboto;
+    font-family: Roboco;
     font-size: 10px;
     font-weight: 800;
     height: 256px;
