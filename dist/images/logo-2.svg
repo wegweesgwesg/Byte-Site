@@ -1,0 +1,28 @@
+<svg width="41" height="40" viewBox="0 0 41 40" fill="none" xmlns="http://www.w3.org/2000/svg">
+<g clip-path="url(#clip0_252_3271)">
+<path d="M33.76 -1H7.24C3.79374 -1 1 1.86538 1 5.4V32.6C1 36.1346 3.79374 39 7.24 39H33.76C37.2063 39 40 36.1346 40 32.6V5.4C40 1.86538 37.2063 -1 33.76 -1Z" fill="url(#paint0_linear_252_3271)"/>
+<path d="M25.5058 12H14.5254C13.2259 12 12.1725 13.0745 12.1725 14.4V25.6C12.1725 26.9255 13.2259 28 14.5254 28H25.5058C26.8053 28 27.8588 26.9255 27.8588 25.6V14.4C27.8588 13.0745 26.8053 12 25.5058 12Z" fill="white"/>
+<path d="M15.3097 9.59961V11.9996" stroke="white" stroke-width="2"/>
+<path d="M15.3097 28V30.4" stroke="white" stroke-width="2"/>
+<path d="M20.0156 28V30.4" stroke="white" stroke-width="2"/>
+<path d="M24.7215 28V30.4" stroke="white" stroke-width="2"/>
+<path d="M20.0156 9.59961V11.9996" stroke="white" stroke-width="2"/>
+<path d="M24.7215 9.59961V11.9996" stroke="white" stroke-width="2"/>
+<path d="M9.81955 15.2002H12.1725" stroke="white" stroke-width="2"/>
+<path d="M27.8588 15.2002H30.2117" stroke="white" stroke-width="2"/>
+<path d="M27.8588 20H30.2117" stroke="white" stroke-width="2"/>
+<path d="M27.8588 24.7998H30.2117" stroke="white" stroke-width="2"/>
+<path d="M9.81955 20H12.1725" stroke="white" stroke-width="2"/>
+<path d="M9.81955 24.7998H12.1725" stroke="white" stroke-width="2"/>
+<path d="M22.3096 16.2686V17.6455H18.5469V24.7998H16.8293V16.2686H22.3096ZM17.9552 19.3799H19.9084C20.5671 19.3799 21.1339 19.4913 21.6087 19.7139C22.0836 19.9366 22.4493 20.249 22.706 20.6514C22.9625 21.0538 23.0908 21.5225 23.0908 22.0577C23.0908 22.4639 23.0181 22.835 22.8726 23.171C22.727 23.503 22.5144 23.792 22.2349 24.0382C21.9591 24.2803 21.626 24.4678 21.2354 24.6006C20.8447 24.7334 20.4024 24.7998 19.9084 24.7998H16.8293V16.2686H18.5584V23.4287H19.9084C20.2377 23.4287 20.5097 23.3662 20.7241 23.2413C20.9386 23.1162 21.0994 22.9502 21.2067 22.7432C21.3177 22.5322 21.3733 22.2998 21.3733 22.0459C21.3733 21.8038 21.3177 21.585 21.2067 21.3897C21.0994 21.1905 20.9386 21.0342 20.7241 20.921C20.5097 20.8077 20.2377 20.751 19.9084 20.751H17.9552V19.3799Z" fill="black"/>
+</g>
+<defs>
+<linearGradient id="paint0_linear_252_3271" x1="1" y1="-1" x2="40.9872" y2="37.9875" gradientUnits="userSpaceOnUse">
+<stop stop-color="#00CFFF"/>
+<stop offset="1" stop-color="#3E00FF"/>
+</linearGradient>
+<clipPath id="clip0_252_3271">
+<rect width="40" height="40" fill="white" transform="translate(0.015625)"/>
+</clipPath>
+</defs>
+</svg>
